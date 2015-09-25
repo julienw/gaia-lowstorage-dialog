@@ -1,0 +1,25 @@
+{
+  "name": "gaia-lowstorage-dialog",
+  "version": "0.1.0",
+  "homepage": "https://github.com/gaia-components/gaia-lowstorage-dialog",
+  "authors": [
+    "Gaia developrs <dev-fxos@mozilla.org>"
+  ],
+  "main": "gaia-lowstorage-dialog.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "examples",
+    "test",
+    "tests",
+    "README.md"
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+    "gaia-component": "gaia-components/gaia-component#^0.3.7",
+    "gaia-dialog": "gaia-components/gaia-dialog#^0.2.3"
+  }
+}
